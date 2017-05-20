@@ -32,7 +32,7 @@ public class Welcome {
 	}
 
 	/**
-	 * Create the application.
+	 * Create the welcome application.
 	 */
 	Connection con = null;
 	public Welcome() {
